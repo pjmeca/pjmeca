@@ -1,6 +1,10 @@
 # Hello there! <img src="images/wave.gif" width="30">
 
-I am Pablo Meca, a Software Engineer from the [University of Murcia](https://www.um.es/web/informatica/) who is deeply in love with all things tech-related. I work daily with .Net C# building web services and APIs. Recently, I have fully immersed myself in the world of Docker (pun intended 😉), and I just can't stop discovering and creating new images! I keep learning new things and am now starting to explore front-end development with Angular, so stay tuned for projects on that side. I am always open to collaborating on projects and new ideas. Feel free to connect with me here:
+I am Pablo Meca, a Software Engineer from the [University of Murcia](https://www.um.es/web/informatica/) who is deeply in love with all things tech-related.
+
+I work daily with .Net C# building web services and APIs. Recently, I have fully immersed myself in the world of Docker (pun intended 😉), and I just can't stop discovering and creating new images! I keep learning new things and am now starting to explore front-end development with Angular, so stay tuned for projects on that side.
+
+I am always open to collaborating on projects and new ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Meca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pjmeca/)](https://www.linkedin.com/in/pjmeca/)
 [![Gmail Badge](https://img.shields.io/badge/-hello@pjmeca.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pjmeca.com)](mailto:hello@pjmeca.com)
