@@ -68,32 +68,32 @@ You can view a full demo [in the following video](https://github.com/pjmeca/pjme
 
 ### ✍️ Other notable things I did at University
 <a href="https://github.com/pjmeca/EscenarioProcessing">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=EscenarioProcessing&theme=tokyonight&hide_border=true" />
+  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=EscenarioProcessing&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pjmeca/ZeppelinUM">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=ZeppelinUM&theme=tokyonight&hide_border=true" />
+  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=ZeppelinUM&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pjmeca/AlgoritmoGenetico">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AlgoritmoGenetico&theme=tokyonight&hide_border=true" />
+  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AlgoritmoGenetico&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pjmeca/AppVideo">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AppVideo&theme=tokyonight&hide_border=true" />
+  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AppVideo&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pjmeca/MiniC">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=MiniC&theme=tokyonight&hide_border=true" />
+  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=MiniC&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pjmeca/GALAX">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=GALAX&theme=tokyonight&hide_border=true" />
+  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=GALAX&theme=tokyonight&hide_border=true" />
 </a>
 
 
 ## 📈 Some stats
 
 <a href="https://github.com/pjmeca">
-  <img height=200 align="center" src="https://github-readme-stats.pjmeca.com/?username=pjmeca&layout=compact&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width=440 align="center" src="https://github-readme-stats.pjmeca.com/?username=pjmeca&layout=compact&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pjmeca">
-  <img height=200 align="center" src="https://github-readme-stats.pjmeca.com/top-langs?username=pjmeca&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+  <img width=400 align="center" src="https://github-readme-stats.pjmeca.com/top-langs?username=pjmeca&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
 </a>
 
 
