@@ -128,20 +128,12 @@ You can view a full demo [in the following video](https://github.com/pjmeca/pjme
 
 ## 📈 Some stats
 
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/pjmeca">
-            <img width=400 align="center" src="https://github-readme-stats.pjmeca.com/?username=pjmeca&layout=compact&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/pjmeca">
-            <img width=400 align="center" src="https://github-readme-stats.pjmeca.com/top-langs?username=pjmeca&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-    </tr>
-</table>
+<a href="https://github.com/pjmeca">
+  <img height=200 align="center" src="https://github-readme-stats.pjmeca.com/?username=pjmeca&layout=compact&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca">
+  <img height=200 align="center" src="https://github-readme-stats.pjmeca.com/top-langs?username=pjmeca&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+</a>
 
 
 ##
