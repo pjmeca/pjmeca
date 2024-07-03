@@ -39,34 +39,18 @@ I am Pablo Meca, a Software Engineer from the [University of Murcia](https://www
 
 ## 🔝 Check out some of my projects
 
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/pjmeca/volume-normalizer">
-                <img height="200" style="display:block; margin:auto;" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=volume-normalizer&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/pjmeca/Fluent.TryCatch">
-                <img height="200" style="display:block; margin:auto;" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=Fluent.TryCatch&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/pjmeca/spotify-downloader">
-                <img height="200" style="display:block; margin:auto;" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=spotify-downloader&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/pjmeca/WordleSolver">
-                <img height="200" style="display:block; margin:auto;" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=WordleSolver&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-    </tr>
-</table>
-
-
+<a href="https://github.com/pjmeca/volume-normalizer">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=volume-normalizer&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/Fluent.TryCatch">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=Fluent.TryCatch&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/spotify-downloader">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=spotify-downloader&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/WordleSolver">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=WordleSolver&theme=tokyonight&hide_border=true" />
+</a>
 
 
 ## 🧑‍🎓 My Undergraduate Thesis
@@ -83,47 +67,24 @@ You can view a full demo [in the following video](https://github.com/pjmeca/pjme
 
 
 ### ✍️ Other notable things I did at University
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/pjmeca/EscenarioProcessing">
-                <img height="150" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=EscenarioProcessing&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/pjmeca/ZeppelinUM">
-                <img height="150" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=ZeppelinUM&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/pjmeca/AlgoritmoGenetico">
-                <img height="150" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AlgoritmoGenetico&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/pjmeca/AppVideo">
-                <img height="150" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AppVideo&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/pjmeca/MiniC">
-                <img height="150" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=MiniC&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/pjmeca/GALAX">
-                <img height="150" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=GALAX&theme=tokyonight&hide_border=true" />
-            </a>
-        </td>
-    </tr>
-</table>
-
-
-
+<a href="https://github.com/pjmeca/EscenarioProcessing">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=EscenarioProcessing&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/ZeppelinUM">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=ZeppelinUM&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/AlgoritmoGenetico">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AlgoritmoGenetico&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/AppVideo">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AppVideo&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/MiniC">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=MiniC&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/pjmeca/GALAX">
+  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=GALAX&theme=tokyonight&hide_border=true" />
+</a>
 
 
 ## 📈 Some stats
