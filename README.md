@@ -23,6 +23,8 @@ I am Pablo Meca, a Software Engineer from the [University of Murcia](https://www
 
 <a href="https://angular.dev/" title="Angular"><img height=30 src="images/icons/angular.png"/></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img height=30 src="images/icons/typescript.png" /></a>
+<a href="https://www.w3.org/html/" title="HTML"><img height=30 src="images/icons/html.png" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS"><img height=30 src="images/icons/css.png" /></a>
 <a href="https://www.python.org/" title="Python"><img height=30 src="images/icons/python.png" /></a>
 
 **Previously worked with:**
