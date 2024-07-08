@@ -21,6 +21,7 @@ I am always open to collaborating on projects and new ideas. Feel free to connec
 <a href="https://www.mysql.com/" title="MySQL"><img height=30 src="images/icons/mysql.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img height=30 src="images/icons/docker.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img height=30 src="images/icons/git.png" /></a>
+<a href="https://dev.azure.com/" title="Azure DevOps"><img height=30 src="images/icons/devops.webp" /></a>
 <a href="https://github.com/" title="GitHub"><img height=30 src="images/icons/github.png" /></a>
 
 **Learning:**
