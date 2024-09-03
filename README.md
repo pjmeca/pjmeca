@@ -19,14 +19,17 @@ I am always open to collaborating on projects and new ideas. Feel free to connec
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img height=30 src="images/icons/vs.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height=30 src="images/icons/vscode.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img height=30 src="images/icons/mysql.png" /></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img height=30 src="images/icons/postgresql.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img height=30 src="images/icons/docker.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img height=30 src="images/icons/git.png" /></a>
 <a href="https://dev.azure.com/" title="Azure DevOps"><img height=30 src="images/icons/devops.webp" /></a>
 <a href="https://github.com/" title="GitHub"><img height=30 src="images/icons/github.png" /></a>
+<a href="https://www.rabbitmq.com" title="RabbitMQ"><img height=30 src="images/icons/rabbitmq.png" /></a>
 
 **Learning:**
 
 <a href="https://angular.dev/" title="Angular"><img height=30 src="images/icons/angular.png"/></a>
+<a href="https://astro.build" title="Astro"><img height=30 src="images/icons/astro.png"/></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img height=30 src="images/icons/typescript.png" /></a>
 <a href="https://www.w3.org/html/" title="HTML"><img height=30 src="images/icons/html.png" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS"><img height=30 src="images/icons/css.png" /></a>
