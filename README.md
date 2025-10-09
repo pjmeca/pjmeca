@@ -16,14 +16,14 @@ I am always open to collaborating on projects and new ideas. Feel free to connec
 
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img height=30 src="images/icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img height=30 src="images/icons/csharp.png" /></a>
-<a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img height=30 src="images/icons/vs.png" /></a>
+<a href="https://www.jetbrains.com/rider/" title="JetBrains Rider"><img height=30 src="images/icons/rider.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height=30 src="images/icons/vscode.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img height=30 src="images/icons/mysql.png" /></a>
 <a href="https://www.postgresql.org" title="PostgreSQL"><img height=30 src="images/icons/postgresql.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img height=30 src="images/icons/docker.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img height=30 src="images/icons/mysql.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img height=30 src="images/icons/git.png" /></a>
-<a href="https://dev.azure.com/" title="Azure DevOps"><img height=30 src="images/icons/devops.webp" /></a>
 <a href="https://github.com/" title="GitHub"><img height=30 src="images/icons/github.png" /></a>
+<a href="https://dev.azure.com/" title="Azure DevOps"><img height=30 src="images/icons/devops.webp" /></a>
 <a href="https://www.rabbitmq.com" title="RabbitMQ"><img height=30 src="images/icons/rabbitmq.png" /></a>
 
 **Learning:**
@@ -37,6 +37,7 @@ I am always open to collaborating on projects and new ideas. Feel free to connec
 
 **Previously worked with:**
 
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img height=30 src="images/icons/vs.png" /></a>
 <a href="https://www.java.com/" title="Java"><img height=30 src="images/icons/java.png" /></a>
 <a href="https://www.eclipse.org" title="Eclipse"><img height=30 src="images/icons/eclipse.svg" /></a>
 <a href="https://www.gnu.org/software/gnu-c-manual/" title="C"><img height=30 src="images/icons/c.png" /></a>
