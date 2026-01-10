@@ -1,12 +1,12 @@
 # Hello there! <img src="images/wave.gif" width="30">
 
-I am Pablo Meca, a Software Engineer from the [University of Murcia](https://www.um.es/web/informatica/) who is deeply in love with all things tech-related.
+I'm **Pablo Meca**, a Software Engineer passionate about **backend development**, building clean APIs with **.NET C#**, and deploying services with **Docker**. I love writing **clear, maintainable code** designed for other developers, and I'm always exploring new technologies to learn and create exciting projects.
 
-I work daily with .Net C# building web services and APIs. Recently, I have fully immersed myself in the world of Docker (pun intended 😉), and I just can't stop discovering and creating new images! I keep learning new things and am now starting to explore front-end development with Angular, so stay tuned for projects on that side.
+I work daily with .NET, Docker, databases and microservices. In my free time, I dive into **frontend development** (Angular, Astro) and experiment with personal projects, always curious and eager to improve.
 
-I am always open to collaborating on projects and new ideas. Feel free to connect with me here:
+📬 Let's connect and build something amazing:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Meca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pjmeca/)](https://www.linkedin.com/in/pjmeca/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Meca-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/pjmeca/)](https://www.linkedin.com/in/pjmeca/)
 [![Gmail Badge](https://img.shields.io/badge/-hello@pjmeca.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pjmeca.com)](mailto:hello@pjmeca.com)
 
 
@@ -18,8 +18,8 @@ I am always open to collaborating on projects and new ideas. Feel free to connec
 <a href="http://csharp.net/" title="C#"><img height=30 src="images/icons/csharp.png" /></a>
 <a href="https://www.jetbrains.com/rider/" title="JetBrains Rider"><img height=30 src="images/icons/rider.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height=30 src="images/icons/vscode.png" /></a>
-<a href="https://www.postgresql.org" title="PostgreSQL"><img height=30 src="images/icons/postgresql.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img height=30 src="images/icons/docker.png" /></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img height=30 src="images/icons/postgresql.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img height=30 src="images/icons/mysql.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img height=30 src="images/icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img height=30 src="images/icons/github.png" /></a>
@@ -33,13 +33,13 @@ I am always open to collaborating on projects and new ideas. Feel free to connec
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img height=30 src="images/icons/typescript.png" /></a>
 <a href="https://www.w3.org/html/" title="HTML"><img height=30 src="images/icons/html.png" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS"><img height=30 src="images/icons/css.png" /></a>
-<a href="https://www.python.org/" title="Python"><img height=30 src="images/icons/python.png" /></a>
 
 **Previously worked with:**
 
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img height=30 src="images/icons/vs.png" /></a>
 <a href="https://www.java.com/" title="Java"><img height=30 src="images/icons/java.png" /></a>
 <a href="https://www.eclipse.org" title="Eclipse"><img height=30 src="images/icons/eclipse.svg" /></a>
+<a href="https://www.python.org/" title="Python"><img height=30 src="images/icons/python.png" /></a>
 <a href="https://www.gnu.org/software/gnu-c-manual/" title="C"><img height=30 src="images/icons/c.png" /></a>
 <a href="https://isocpp.org" title="C++"><img height=30 src="images/icons/c++.png" /></a>
 <a href="https://www.latex-project.org" title="LaTeX"><img height=30 src="images/icons/latex.svg" /></a>
@@ -48,27 +48,34 @@ I am always open to collaborating on projects and new ideas. Feel free to connec
 <a href="https://www.mongodb.com" title="MongoDB"><img height=30 src="images/icons/mongodb.png" /></a>
 
 
-## 🔝 Check out some of my projects
+## 🔝 Featured Projects
 
-<a href="https://github.com/pjmeca/volume-normalizer">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=volume-normalizer&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/Fluent.TryCatch">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=Fluent.TryCatch&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/spotify-downloader">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=spotify-downloader&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/WordleSolver">
-  <img height=150 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=WordleSolver&theme=tokyonight&hide_border=true" />
-</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit,	minmax(280px, 1fr)); gap: 5px;">
+  <a href="https://github.com/pjmeca/spotify-downloader">
+    <img src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=spotify-downloader&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pjmeca/volume-normalizer">
+    <img src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=volume-normalizer&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/pjmeca/no-as-a-service">
+    <img src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=no-as-a-service&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pjmeca/Fluent.TryCatch">
+    <img src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=Fluent.TryCatch&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pjmeca/jenkins">
+    <img src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=jenkins&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pjmeca/WordleSolver">
+    <img src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=WordleSolver&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
+## 🧑‍🎓 Undergraduate Thesis: Murcia VR
 
-## 🧑‍🎓 My Undergraduate Thesis
+For my Bachelor's Thesis, I developed a **virtual reality app** to experience [the city of Murcia](https://www.google.com/search?q=murcia) and raise awareness about air quality. Built in **Unity** for the Meta Quest 2, it uses the **Bing Maps API** and connects to the [CARM API](https://www.carm.es/web/pagina) for real-time weather data.
 
-For my Bachelor's Thesis, I developed a virtual reality application to experience [the city of Murcia](https://www.google.com/search?q=murcia) and raise awareness about air quality. The project was developed in Unity for the Meta Quest 2 and uses the Bing Maps API to generate a 3D scenario of the city of Murcia. It also connects to the [CARM](https://www.carm.es/web/pagina) API to obtain up-to-date meteorological information.
-
-You can view a full demo [in the following video](https://github.com/pjmeca/pjmeca/blob/main/images/murcia-vr.png?raw=true):
+You can view a full demo in the following video:
 
 [![Murcia VR demo](images/murcia-vr.png)](https://www.youtube.com/watch?v=A2XpRTwfmzo)
 
@@ -77,28 +84,7 @@ You can view a full demo [in the following video](https://github.com/pjmeca/pjme
 </a>
 
 
-### ✍️ Other notable things I did at University
-<a href="https://github.com/pjmeca/EscenarioProcessing">
-  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=EscenarioProcessing&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/ZeppelinUM">
-  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=ZeppelinUM&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/AlgoritmoGenetico">
-  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AlgoritmoGenetico&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/AppVideo">
-  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=AppVideo&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/MiniC">
-  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=MiniC&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/pjmeca/GALAX">
-  <img width=420 align="center" src="https://github-readme-stats.pjmeca.com/pin/?username=pjmeca&repo=GALAX&theme=tokyonight&hide_border=true" />
-</a>
-
-
-## 📈 Some stats
+## 📈 Stats
 
 <a href="https://github.com/pjmeca">
   <img width=440 align="center" src="https://github-readme-stats.pjmeca.com/?username=pjmeca&layout=compact&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -107,11 +93,8 @@ You can view a full demo [in the following video](https://github.com/pjmeca/pjme
   <img width=400 align="center" src="https://github-readme-stats.pjmeca.com/top-langs?username=pjmeca&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
 </a>
 
+---
 
-##
-
-If you made it this far, thanks for reading! 🚀 If you’re as passionate about tech as I am, let’s connect and build something amazing together. Happy coding! 😊
-
-##
+Thanks for reading! 🚀 If you share my passion for tech, let’s connect and build something amazing together. Happy coding! 😊
 
 ### With ♥️ from [Spain 🇪🇸](https://www.google.com/search?q=spain)
